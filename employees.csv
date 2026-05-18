@@ -1,0 +1,11 @@
+id,name,department,salary,age,city,experience,gender,status
+101,John Smith,IT,50000,25,New York,2,Male,Active
+102,Sarah Johnson,HR,45000,30,Chicago,5,Female,Active
+103,Michael Brown,Finance,60000,35,Texas,8,Male,Active
+104,Emma Davis,IT,70000,28,California,4,Female,Active
+105,David Wilson,Sales,40000,32,Florida,6,Male,Inactive
+106,Olivia Miller,Marketing,52000,27,Seattle,3,Female,Active
+107,James Taylor,IT,75000,40,Boston,12,Male,Active
+108,Sophia Anderson,Finance,68000,33,Chicago,7,Female,Active
+109,Daniel Thomas,Sales,42000,29,Texas,4,Male,Inactive
+110,Isabella Jackson,HR,48000,31,California,5,Female,Active
